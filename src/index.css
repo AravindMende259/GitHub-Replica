@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  background-color: #e0fcff
+}
+
+.size{
+  width: 60%;
+  height: 60%;
+}
+.bgdesign1{
+  background-color:rgb(255, 224, 240);
+    color: rgb(218, 74, 145);
+    max-width: max-content;
+    padding: 5%;
+}
+
+.bgdesign2{
+  background-color: #e0fcff;
+    color: #2caeba;
+    max-width: max-content;
+    padding: 5%;
+}
+
+.bgdesign3{
+  background-color: rgb(230, 230, 255);
+    color: rgb(93 85 250);
+    max-width: max-content;
+    padding: 5%;
+}
+
+.bgdesign4{
+  background-color: rgb(255, 251, 234);
+    color: rgb(240, 180, 41);
+    max-width: max-content;
+    padding: 5%;
+}
+
+.profilePic{
+  width: 20%!important;
+}
+
+.btnset{
+  height: fit-content;
+    margin-left: 12%;
+}
+
+.paddingP{
+  margin-bottom:0.25rem
+}
